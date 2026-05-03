@@ -2,7 +2,7 @@
 
 ![Logo](FoodLogisticLogo.png)
 
-Autors: Biel Batalla i Pol Castaño
+**Autors: Biel Batalla i Pol Castaño**
 
 ## Descripció
 
